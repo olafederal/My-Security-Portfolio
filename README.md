@@ -45,6 +45,6 @@ This repository contains my notes, scripts, write-ups, and projects as I continu
 ## 📫 Contact
 - 📧 Email: sundayajise@gmail.com  
 - 💼 LinkedIn: www.linkedin.com/in/ajise-sunday-780738135
-- 🐙 GitHub: [your GitHub profile link]
+- 🐙 GitHub: https://github.com/olafederal
 
 ⭐ **Feel free to check out my notes and projects, and connect with me if you’re hiring or collaborating!**  
