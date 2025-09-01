@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 import socket
 
-target = "mgrmgmt.com"
-port = (443)
+target = "sample.com"
+port = (80)
 
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
